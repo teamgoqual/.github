@@ -1,12 +1,22 @@
-## Welcome to GOQUAL Github!
+## Introduction
 
-<!--
+<b>"We Create a User-Friendly Smart Home Experience for Everyone."</b>
 
-**Here are some ideas to get you started:**
+Through our experience with various IoT products, we have recognized a notable enhancement in quality of life.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nonetheless, it has been disappointing to see that the adoption of these products remains limited. 
+Consumers are less concerned with the technical marvels behind these innovations and more interested in understanding the tangible benefits they bring to their daily lives. Unfortunately, there has been a lack of brands effectively communicating this value. 
+We identified a gap in the market for affordable prices, high-quality products, seamless control through a unified app, compatibility with various AI speakers, and secure services.
+
+'Hejhome (https://hej.life)' was established to address these needs, providing users with a more comfortable and secure everyday life.
+
+GOQUAL is committed to the "popularization of IoT", and we see Hejhome as the starting point. 
+Our aim is not only to advance IoT technology but also to influence lifestyle changes, offering new choices that enhance people's lives.
+
+We are experiencing rapid growth, introducing the smart home lifestyle to over 10,000 new users per month. 
+We believe there is significant potential for further expansion, and we are excited to embark on this journey alongside talented colleagues.
+
+Striving for greater speed and higher achievements.
+<br>
+<br>
+<b>Work with us: https://www.wanted.co.kr/company/516</b>
